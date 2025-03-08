@@ -1,0 +1,10 @@
+Streamlit
+PyMongo
+openai
+torch
+cuda-python
+pandas
+numpy
+scikit-learn
+langdetect
+pymongo[srv]
