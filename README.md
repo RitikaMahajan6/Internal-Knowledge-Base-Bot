@@ -60,6 +60,3 @@ This will start the Streamlit GUI, allowing users to interact with the bot.
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
